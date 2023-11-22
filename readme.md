@@ -10,7 +10,7 @@ This is a second iteration of the Pir-hana design, the F5000. There are several 
 * Reproducibility, full CAD and laser models for both manufacturing and assembly.
 
 <p align="center">
-  <img src="https://github.com/aihphysics/pirhana-f5000/blob/main/base_figure.png" />
+  <img src="https://github.com/aihphysics/pirhana-f5000/blob/main/assets/base_figure.png" />
 </p>
 
 ## Index
