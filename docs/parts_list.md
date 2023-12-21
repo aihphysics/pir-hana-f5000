@@ -29,8 +29,8 @@ This is a summary of the components (post production) that will need to be assem
 * _Main parachute_
 * _Nomex cover_
 * _Forward fin group_
-* *Forward fin drill jig*
-* *Coupling Bolt drill jig*
+* __Forward fin drill jig__
+* __Coupling Bolt drill jig__
 
 ## Central Bay
 * Phenolic hull tube
@@ -40,7 +40,7 @@ This is a summary of the components (post production) that will need to be assem
 * _Main parachute_
 * _Drogue parachute_
 * _Nomex cover_
-* *Coupling Bolt drill jig*
+* __Coupling Bolt drill jig__
 
 
 ## Motor bay
@@ -55,8 +55,8 @@ This is a summary of the components (post production) that will need to be assem
 * Motor retainer
 * _Nosecone-facing O-ring nut - M4_
 * _Rear weights_
-* *Fin mount jig*
-* *Coupling Bolt drill jig*
-* *Fin tab slot cutting jig*
-* *Center ring cutting jig*
+* __Fin mount jig__
+* __Coupling Bolt drill jig__
+* __Fin tab slot cutting jig__
+* __Center ring cutting jig__
 
